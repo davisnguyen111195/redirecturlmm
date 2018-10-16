@@ -1,0 +1,19 @@
+{
+  "name": "redirecturl",
+  "version": "1.0.0",
+  "description": "redirecturl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davisnguyen111195/redirecturlmm.git"
+  },
+  "author": "realdatnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davisnguyen111195/redirecturlmm/issues"
+  },
+  "homepage": "https://github.com/davisnguyen111195/redirecturlmm#readme"
+}
