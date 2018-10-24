@@ -23,6 +23,9 @@ app.get('/go', (req, res, next) => {
     next()
 })
 
+app.get('/home', (req, res) => {
+    console.log('HOME')
+})
 app.listen(port, () => {
     console.log('App listening on port ' + port)
 })
