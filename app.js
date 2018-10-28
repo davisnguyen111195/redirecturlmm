@@ -23,7 +23,7 @@ app.get('/go', (req, res, next) => {
     next()
 })
 
-appapp.get('/goou', (req, res, next) => {
+app.get('/goou', (req, res, next) => {
      let linkou = 'http://ouo.io/s/eQvRL1Ie?s=' + req.query.url
      res.redirect(linkou)
      next()
