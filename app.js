@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/go', (req, res, next) => {
-    let link = 'https://123link.co/st?api=671277a48e917f3de5c2b1cd4bec64e89fb6844f&url=' + req.query.url
+    let link = 'http://ouo.io/s/eQvRL1Ie?s=' + req.query.url
     res.redirect(link)
     next()
 })

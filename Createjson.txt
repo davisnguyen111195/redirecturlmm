@@ -1,0 +1,16 @@
+1. create link
+2. edit link
+3. remove link
+4. get link
+5. analytic click
+
+JSON: 
+[
+    {
+        "RawLink":"",
+        "DirectLink":""
+        "Date":"",
+        "":
+    }
+
+]
